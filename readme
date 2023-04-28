@@ -12,10 +12,12 @@ Deploy: https://wayjewish-amo1.netlify.app/
 ## Задание 2
 
 Не увидел здесь смысла в React'е.
-Сфокусировался Pixel Perfect и на представленных в макете разрешениях 1440 и 320.
+Сфокусировался на Pixel Perfect и представленных в макете разрешениях 1440 и 320.
 Не понял логику мобильного фона добавил просто background-image'ом.
 На мобильном макете другой контент, за основу взял контент с десктоп макета но проверку проводил с подменой в браузере.
 
 Скриншоты с проверками PX:
+![Desktop-px](https://wayjewish-amo2.netlify.app/Desktop-px.png)
+![Mobile-tx](https://wayjewish-amo2.netlify.app/Mobile-tx.png)
 
 Deploy: https://wayjewish-amo2.netlify.app/
